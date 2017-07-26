@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="UTF-8">
+	<meta name="google-site-verification" content="kIAK6j0QRKZra2O3EJG8MpVJz8JHizE7hw2vEI-ib5w">
+	<meta name="google-site-verification" content="google8fcc99d3d45df0f6.html">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3mobile.css">
+	<link href=""https://00e9e64bac8a6535c8d1ccea8dea74bcadc0cda76bcd5e8d78-apidata.googleusercontent.com/download/storage/v1/b/calleyann.com/o/mystyle.css?qk=AD5uMEuVTwSW_aKD3_28rvSTzchKVQqTUvf72dw__BHC5gAU2kFHTJfhdZSgK0dQ9GzURXJeKn89NJrrEZm39ULp6XH9hWVl2yhPgZ1Q3JWUqcFMMYFUoBfWM84c7626FuEpeUs1nW4JUQbiI9PmTD0ObtbIsdwpB0c2hGEu9JuNUFl5YdYUgCx0WLUFMYbXJtY0axMIzzziW68UTXmsi20c_ps4q3pUd196mbt802FNo3Cgc2qctwI95OKkyFNQe6fduN9Metk1_ShwxR__Vojq-hhw5aJkQfMjKE2a8FlyybzfmZH6IsA6mVpAh7UwL8y5aZHoSpwsvVnJJaGf9niixnBIpoTjjH5U2sqiojVzAEiHDLHfuzeAjMhjlU9QuXKIPtj_nFDm6YbEFCoc_rhPQX4S2RaiedU8cU8ExBZbre0G8mZAM1_J_7L5prUt0b1r_3L6E5D7eZ1yGBPUIrIqHiKwgrx0YYZygjSSarLVWxGpypYbnHbof3rCNrbS8upzq9nSo0SbVAbQr0bPyilaCd1EW2vD8Xz2h1QIFENv2rwXNDQef3g_W_tsl8uwQyhPkE8Wi4cryvnC4aGAYKnOH4jT1sNQNiQ_sra3uro7KObcEUOOGF4hBC_rAFGX9EtwY60u9RWEVb8mopTZtcEQ9e7EMXsqWHHWfPQGGJK2_aETboV-8lBdXSSYiTCi-F4jVbXBsVe2bwzHQqoR2oAu-2nQqOF1YB5GRDmWoQ057MCF-52Rl0sEMKW5Evw6szfuPmuPp_gceR_GzeRrT-isLjZJ-0pA8Q">
+	<meta name="keywords" content="HTML, CSS, XML, coding, Journey,Programmer">
+<meta http-equiv="refresh" content="60">
+<meta itemprop="url" property="og:url" content="https://calleyscodingjourney.calleyann.com">
+ 	<title>Calley's Coding Journey</title>
+	<link href="mystyle.css" type="text/css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Clicker+Script|Codystar|Crafty+Girls|Cutive+Mono|Dawning+of+a+New+Day|Fredericka+the+Great|Give+You+Glory|Happy+Monkey|Homemade+Apple|Indie+Flower|Josefin+Slab|Kranky|Kumar+One+Outline|League+Script|Londrina+Outline|Love+Ya+Like+A+Sister|Megrim|Miltonian+Tattoo|Monofett|Monoton|Nixie+One|Permanent+Marker|Poiret+One|Pompiere|Raleway+Dots|Ribeye|Ribeye+Marrow|Satisfy|Shadows+Into+Light+Two|Snowburst+One|Unkempt|Walter+Turncoat" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Butterfly+Kids|Faster+One|Fredericka+the+Great|Jacques+Francois+Shadow|Kranky|Kumar+One+Outline|Londrina+Sketch|Miltonian|Monofett|Monoton|Patrick+Hand+SC|Poiret+One|Vast+Shadow" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="google-site-verification=lBYdpYvCO0m3vRi949D5D6n7-cLPWTD7Y3v-DzK8wZY.html" type="text/html">
+	<link href=""https://00e9e64bac8a6535c8d1ccea8dea74bcadc0cda76bcd5e8d78-apidata.googleusercontent.com/download/storage/v1/b/calleyann.com/o/mystyle.css?qk=AD5uMEuVTwSW_aKD3_28rvSTzchKVQqTUvf72dw__BHC5gAU2kFHTJfhdZSgK0dQ9GzURXJeKn89NJrrEZm39ULp6XH9hWVl2yhPgZ1Q3JWUqcFMMYFUoBfWM84c7626FuEpeUs1nW4JUQbiI9PmTD0ObtbIsdwpB0c2hGEu9JuNUFl5YdYUgCx0WLUFMYbXJtY0axMIzzziW68UTXmsi20c_ps4q3pUd196mbt802FNo3Cgc2qctwI95OKkyFNQe6fduN9Metk1_ShwxR__Vojq-hhw5aJkQfMjKE2a8FlyybzfmZH6IsA6mVpAh7UwL8y5aZHoSpwsvVnJJaGf9niixnBIpoTjjH5U2sqiojVzAEiHDLHfuzeAjMhjlU9QuXKIPtj_nFDm6YbEFCoc_rhPQX4S2RaiedU8cU8ExBZbre0G8mZAM1_J_7L5prUt0b1r_3L6E5D7eZ1yGBPUIrIqHiKwgrx0YYZygjSSarLVWxGpypYbnHbof3rCNrbS8upzq9nSo0SbVAbQr0bPyilaCd1EW2vD8Xz2h1QIFENv2rwXNDQef3g_W_tsl8uwQyhPkE8Wi4cryvnC4aGAYKnOH4jT1sNQNiQ_sra3uro7KObcEUOOGF4hBC_rAFGX9EtwY60u9RWEVb8mopTZtcEQ9e7EMXsqWHHWfPQGGJK2_aETboV-8lBdXSSYiTCi-F4jVbXBsVe2bwzHQqoR2oAu-2nQqOF1YB5GRDmWoQ057MCF-52Rl0sEMKW5Evw6szfuPmuPp_gceR_GzeRrT-isLjZJ-0pA8Q" type="text/css" rel="stylesheet">
+		<script src="https://www.w3schools.com/lib/w3.js"></script>
+		<script>w3.includeHTML();</script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    		<script type="text/javascript" src="main.js"></script>
+		
+		<script>
+		$(document).ready(function(){
+			$("#titleNav").click(function(){
+				$(".sideBar").slideUp(4000).slideDown(4000);
+});		
+	});
+			function myFunction() {
+    			var w = window.outerWidth;
+    			var h = window.outerHeight;
+    			var txt = "Window size: width=" + w + ", height=" + h;
+    			document.getElementById("bg").innerHTML = txt;}
+w3.http = function (target, readyfunc, xml, method) {
+  var httpObj;
+  if (!method) {method = "GET"; }
+  if (window.XMLHttpRequest) {
+    httpObj = new XMLHttpRequest();
+  } else if (window.ActiveXObject) {
+    httpObj = new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  if (httpObj) {
+    if (readyfunc) {httpObj.onreadystatechange = readyfunc;}
+    httpObj.open(method, target, true);
+    httpObj.send(xml);
+  }
+};
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0; 
+}
+		</script>
+	</head>
+
+<body onresize="myFunction()">
+<div class="bg">
+	<div class="navigation">
+	
+	<form action="https://google.com/search" target="_blank">
+  		<input type="text" name="search" placeholder="Search.." target="_blank" action="https://google.com/search/"></input>
+</form>
+<button id="titleNav" >Navigation</button>
+	<nav class="sideBar">
+		 <li class=><a href="https://sites.google.com/view/calleysportfolio/home" target="_blank">HOME</a></li>
+ 		 <li><a href= “https://sites.google.com/view/calleysportfolio/home/a-little-about-me” target="_blank">A Little About Me</a></li>
+ 	 	<li><a href="https://sites.google.com/view/calleysportfolio/home/projects" target="_blank">Data Science Projects</a></li>
+  		<li><a href="https://www.facebook.com/calleyellisonphotography/" target="_blank">Calley Ellison Photography</a></li>
+	 	<li><a href="https://www.linkedin.com/in/calley-ellison-402348113" target="_blank">My LinkedIn</a></li>
+		<a href="https://www.facebook.com/calley.ellison" class="fa fa-facebook" target="_blank"></a>
+		<a href="https://twitter.com/Calleyann2191" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://www.youtube.com/channel/UCPYJyoUzUWfhH1Vf8PdW2sA/videos?shelf_id=0&view=0&sort=dd" class="fa fa-youtube" target="_blank"></a>
+		<a href="https://www.pinterest.com/Calleyann2191/" class="fa fa-pinterest" target="_blank"></a>
+	<a href="https://sites.google.com/view/calleysportfolio/my-coding-journey" target="_blank"><img id="myLogo" src="https://lh3.googleusercontent.com/-FAsxdD2rbSI/WWAtzKpX1kE/AAAAAAAAAAw/Y_c-70eAkZ4Wk6T5p_q9g6KX9Gs6NZ_JgCEwYCg/w326-h220-p/6440197824194270785" alt="Calley Ellison's Logo" target="_blank"></a>
+<iframe frameborder='0' height='465px' width='555px' src="https://docs.google.com/document/d/1Xs4gRVl8mPv89Qk15p_U1wTzQtm7ELJgYANj2AYdaRo/pub"></iframe>
+	</nav>
+	</div>
+<div class="beginning">
+<h1>My Coding Journey</h1>
+	<h2 id="known">What I Already Knew</h2>
+	<p>I came into this summer internship knowing SAS..kind of and different kinds of math.I love statistical analysis and SAS was already frustrating--I knew I had to learn more to be a viable asset to any team.I went to the Google Cloud OnBoard 10-5pm training <br />and learned the basic infrastructure for a platform I had been
+trying to learn for two weeks. Then I was inspired. I made a list of every type of programming language that showed up on the GCP and made it my goal to masters those. That's where I start my coding journey.</p>
+	
+	<h4><a id="face" href="https://sites.google.com/view/calleysportfolio/home" target="_blank">Check Out My Online Portfolio!</a> </h4>
+
+<h3> My To-Do List:</h3>
+</div>
+<div>
+     	<ul class="other">
+            <li>Standard SQL for Google BigQuery</li>
+            <li>Python for Kaggle Competitions</li>
+            <li>Hadoop for Big Data and specifically for Google Dataflow and DataProc</li>
+            <li>Enhance my SAS capabilities</li>
+            <li>CSS</li>
+            <li>JavaScript/jQuery/AJAX to make websites more dynamic</li>
+         </ul>
+
+        <h5 id="update">What I Have Learned So Far</h5>
+          <ul id="learned">
+            <li>I have utilized CSS alongside HTML sufficiently</li>
+            <li>I'm not really a fan of SQL</li>
+            <li>I introduced myself to javascript and jquery/ajax and it's fairly difficult</li>
+            <li>Printing out physical copies of code in addition to copies of that code is always a good idea</li>
+            <li>SAS has suprisingly become one of my favorite things</li>
+          </ul>
+</div>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    </div>
+</body>
+</html>
+
+	
+
+
+	   
